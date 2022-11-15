@@ -1,9 +1,9 @@
-//imprecise age calculator
+//age calculator
 #include <stdio.h>
 void main()
 {
 int by, cy;
-printf("Welcome to the imprecise age calculator! \nPlease enter your birth year.\n");
+printf("Welcome to the age calculator! \nPlease enter your birth year.\n");
 scanf("%d", &by);
 printf("Enter current year\n");
 scanf("%d", &cy);
